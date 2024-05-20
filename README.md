@@ -48,6 +48,7 @@ Here we will track the latest AI Multimodal Models, including Native Multimodal 
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-05    | [Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)                | A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding.            |[arXiv](https://arxiv.org/abs/2405.08748)  |[Hugging Face](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
