@@ -36,7 +36,7 @@ Here we will track the latest AI Multimodal Models, including Native Multimodal 
 
 
 ###  <span id="audio">Audio</span>
-
+#### Audio/Text-to-Speech
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
 |    2023-06    | [StyleTTS 2](https://github.com/yl4579/StyleTTS2)                | Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.            |[arXiv](https://arxiv.org/abs/2306.07691)  |[Hugging Face](https://huggingface.co/spaces/styletts2/styletts2)  |
@@ -65,6 +65,7 @@ Here we will track the latest AI Multimodal Models, including Native Multimodal 
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-03    | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)                | Fast 3D Object Reconstruction from a Single Image.            |[arXiv](https://arxiv.org/abs/2403.02151)  |[Hugging Face](https://huggingface.co/spaces/stabilityai/TripoSR)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
