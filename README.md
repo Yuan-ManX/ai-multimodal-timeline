@@ -30,6 +30,7 @@ Here we will track the latest AI Multimodal Models, including Native Multimodal 
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :-----------: | :-------: |
+|    2023-07    | [GPT-4](https://openai.com/index/gpt-4/)                                    | GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses.            |                                                               |[API](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
