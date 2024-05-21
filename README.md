@@ -1,6 +1,6 @@
 # AI Multimodal Timeline
 
-Here we will track the latest AI Multimodal Models, including Native Multimodal Model, LLM, Audio, Image, Video, and 3D content. 🔥
+Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Audio, Image, Video, and 3D content. 🔥
 
 ## Table of Contents
 
