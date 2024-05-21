@@ -41,6 +41,11 @@ Here we will track the latest AI Multimodal Models, including Native Multimodal 
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
 |    2023-06    | [StyleTTS 2](https://github.com/yl4579/StyleTTS2)                | Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.            |[arXiv](https://arxiv.org/abs/2306.07691)  |[Hugging Face](https://huggingface.co/spaces/styletts2/styletts2)  |
 
+#### Audio/Automatic Speech Recognition
+| Date          | Source                   | Description                                                 |   Paper   |  Model  |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2022-12    | [Whisper](https://github.com/openai/whisper)                | Whisper is a general-purpose speech recognition model.            |[arXiv](https://arxiv.org/abs/2212.04356)  |[API](https://platform.openai.com/docs/models/whisper)  |
+
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
