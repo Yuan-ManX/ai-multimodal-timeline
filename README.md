@@ -75,7 +75,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
-|    2024-03    | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)                | Fast 3D Object Reconstruction from a Single Image.            |[arXiv](https://arxiv.org/abs/2403.02151)  |[Hugging Face](https://huggingface.co/spaces/stabilityai/TripoSR)  |
+|    2023-12    | [Suno](https://suno.com/)                | Suno is building a future where anyone can make great music.            |                                                                                      |[Website](https://suno.com/)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
