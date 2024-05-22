@@ -1,6 +1,6 @@
 # AI Multimodal Timeline
 
-Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Audio, Image, Video, and 3D content. 🔥
+Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Audio, Image, Video, Music and 3D content. 🔥
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 * [Audio](#audio)
 * [Image](#image)
 * [Video](#video)
+* [Music](#music)
 * [3D](#3d)
 
 
@@ -70,6 +71,15 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
+###  <span id="music">Music</span>
+
+| Date          | Source                   | Description                                                 |   Paper   |  Model  |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-03    | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)                | Fast 3D Object Reconstruction from a Single Image.            |[arXiv](https://arxiv.org/abs/2403.02151)  |[Hugging Face](https://huggingface.co/spaces/stabilityai/TripoSR)  |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
 ###  <span id="3d">3D</span>
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
@@ -77,5 +87,6 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2024-03    | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)                | Fast 3D Object Reconstruction from a Single Image.            |[arXiv](https://arxiv.org/abs/2403.02151)  |[Hugging Face](https://huggingface.co/spaces/stabilityai/TripoSR)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
 
 
