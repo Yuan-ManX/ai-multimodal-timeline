@@ -68,6 +68,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
 |    2024-02    | [Sora](https://openai.com/index/sora/)                                    | Sora is an AI model that can create realistic and imaginative scenes from text instructions.            |[Technical Report](https://openai.com/index/video-generation-models-as-world-simulators/)  |                             |
+|    2023-11    | [Pika](https://pika.art/home)                                             | Pika is the idea-to-video platform that sets your creativity in motion.            |     |                             |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
