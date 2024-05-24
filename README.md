@@ -70,6 +70,8 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2024-05    | [Vidu](https://www.vidu.io/)                                              | Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models.            |[arXiv](https://arxiv.org/abs/2405.04233)  |                             |
 |    2024-02    | [Sora](https://openai.com/index/sora/)                                    | Sora is an AI model that can create realistic and imaginative scenes from text instructions.            |[Technical Report](https://openai.com/index/video-generation-models-as-world-simulators/)  |                             |
 |    2023-11    | [Pika](https://pika.art/home)                                             | Pika is the idea-to-video platform that sets your creativity in motion.            |     |                             |
+|    2023-03    | [Runway](https://runwayml.com/)                                           | Runway is an applied AI research company shaping the
+next era of art, entertainment and human creativity.            |     |                             |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
