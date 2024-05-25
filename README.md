@@ -79,6 +79,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-04    | [Udio](https://www.udio.com/)                | Udio | AI Music Generator                |                                                                                      |[Website](https://www.udio.com/)  |
 |    2023-12    | [Suno](https://suno.com/)                | Suno is building a future where anyone can make great music.            |                                                                                      |[Website](https://suno.com/)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
