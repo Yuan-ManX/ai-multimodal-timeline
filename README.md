@@ -50,6 +50,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 #### Audio/Automatic Speech Recognition
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-05    | [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR)                | Large speech model-super multi-dialect ASR.            |      |[Hugging Face](https://huggingface.co/Tele-AI/TeleSpeech-ASR1.0)  |
 |    2022-12    | [Whisper](https://github.com/openai/whisper)                | Whisper is a general-purpose speech recognition model.            |[arXiv](https://arxiv.org/abs/2212.04356)  |[API](https://platform.openai.com/docs/models/whisper)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
