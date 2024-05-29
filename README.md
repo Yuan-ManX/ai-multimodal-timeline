@@ -46,6 +46,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 #### Audio/Text-to-Speech
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-05    | [ChatTTS](https://github.com/2noise/ChatTTS)                     | ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant.            |  | |
 |    2023-06    | [StyleTTS 2](https://github.com/yl4579/StyleTTS2)                | Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.            |[arXiv](https://arxiv.org/abs/2306.07691)  |[Hugging Face](https://huggingface.co/spaces/styletts2/styletts2)  |
 
 #### Audio/Automatic Speech Recognition
