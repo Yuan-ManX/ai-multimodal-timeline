@@ -1,6 +1,6 @@
 # AI Multimodal Timeline
 
-Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Audio, Image, Video, Music and 3D content. 🔥
+Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Agent, Audio, Image, Video, Music and 3D content. 🔥
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
-|    2024-04    | [Llama 3](https://github.com/meta-llama/llama3)                | Meta Llama 3 is the next generation of our state-of-the-art open source large language model.            |                                     |[Hugging Face](https://huggingface.co/meta-llama)  |
+|    2024-05    | [Pipecat](https://github.com/pipecat-ai/pipecat)                | Open Source framework for voice and multimodal conversational AI.            |                                     |  |
 
 
 ###  <span id="audio">Audio</span>
