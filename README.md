@@ -6,6 +6,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 * [Multimodal Model](#multimodal)
 * [LLM](#llm)
+* [Agent](#agent)
 * [Audio](#audio)
 * [Image](#image)
 * [Video](#video)
@@ -42,6 +43,13 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2023-07    | [GPT-4](https://openai.com/index/gpt-4/)                                    | GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses.            |                                                               |[API](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+###  <span id="agent">Agent</span>
+
+| Date          | Source                   | Description                                                 |   Paper   |  Model  |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-04    | [Llama 3](https://github.com/meta-llama/llama3)                | Meta Llama 3 is the next generation of our state-of-the-art open source large language model.            |                                     |[Hugging Face](https://huggingface.co/meta-llama)  |
 
 
 ###  <span id="audio">Audio</span>
