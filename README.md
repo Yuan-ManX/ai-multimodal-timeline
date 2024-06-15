@@ -50,6 +50,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-06    | [Buffer of Thoughts](https://github.com/YangLing0818/buffer-of-thought-llm)       | Thought-Augmented Reasoning with Large Language Models.            |[arXiv](https://arxiv.org/abs/2406.04271)  |  |
 |    2024-06    | [Translation Agent](https://github.com/andrewyng/translation-agent)               | Agentic translation using reflection workflow.            |                                     |  |
 |    2024-06    | [Atomic Agents](https://github.com/KennyVaneetvelde/atomic_agents)                | The Atomic Agents framework is designed to be modular, extensible, and easy to use.            |                                     |  |
 |    2024-05    | [Pipecat](https://github.com/pipecat-ai/pipecat)                | Open Source framework for voice and multimodal conversational AI.            |                                     |  |
