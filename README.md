@@ -122,6 +122,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
 |    2024-06    | [DreamGaussian4D](https://github.com/jiawei-ren/dreamgaussian4d)      | Generative 4D Gaussian Splatting.            |[arXiv](https://arxiv.org/abs/2312.17142)  |[Hugging Face](https://huggingface.co/spaces/jiawei011/dreamgaussian4d)  |
+|    2024-03    | [GaussianCube](https://github.com/GaussianCube/GaussianCube)          | A Structured and Explicit Radiance Representation for 3D Generative Modeling.            |[arXiv](https://arxiv.org/abs/2403.19655)  |[Hugging Face](https://huggingface.co/BwZhang/GaussianCube-OmniObject3D-v1.0)  |
 |    2024-03    | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)                | Fast 3D Object Reconstruction from a Single Image.            |[arXiv](https://arxiv.org/abs/2403.02151)  |[Hugging Face](https://huggingface.co/spaces/stabilityai/TripoSR)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
