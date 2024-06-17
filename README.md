@@ -32,6 +32,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2024-05    | [GPT-4o](https://openai.com/index/hello-gpt-4o/)                            | GPT-4o (“o” for “omni”) is a step towards much more natural human-computer interaction—it accepts as input any combination of text, audio, image, and video and generates any combination of text, audio, and image outputs.            |                                                               |[API](https://platform.openai.com/docs/models/gpt-4o)  |
 |    2023-12    | [Tokenize Anything](https://github.com/baaivision/tokenize-anything)      | Tokenize Anything via Prompting.            |[arXiv](https://arxiv.org/abs/2312.09128)  |[Hugging Face](https://huggingface.co/BAAI/tokenize-anything)  |
 |    2023-05    | [ImageBind](https://github.com/facebookresearch/ImageBind)                | One Embedding Space To Bind Them All.            |[arXiv](https://arxiv.org/abs/2305.05665)  |[Website](https://imagebind.metademolab.com/)  |
+|    2022-11    | [EVA](https://github.com/baaivision/EVA)                | EVA: Visual Representation Fantasies from BAAI.                      |[arXiv](https://arxiv.org/abs/2211.07636)  |  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
