@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-06    | [MINT-1T](https://github.com/mlfoundations/MINT-1T)              | Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens.            |[arXiv](https://arxiv.org/abs/2406.11271)  |  |
 |    2024-06    | [OmniTokenizer](https://github.com/FoundationVision/OmniTokenizer)              | A Joint Image-Video Tokenizer for Visual Generation.            |[arXiv](https://arxiv.org/abs/2406.09399)  |[Website](https://www.wangjunke.info/OmniTokenizer/)  |
 |    2024-06    | [ml-4m](https://github.com/apple/ml-4m)              | A framework for training any-to-any multimodal foundation models.            |[arXiv](https://arxiv.org/abs/2406.09406)  |[Website](https://4m.epfl.ch/)  |
 |    2024-06    | [VideoLLaMA 2](https://github.com/DAMO-NLP-SG/VideoLLaMA2)              | Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs.            |[arXiv](https://arxiv.org/abs/2406.07476)  |[Hugging Face](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2-7B)  |
