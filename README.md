@@ -52,6 +52,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-06    | [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)            | Claude 3.5 Sonnet            |                                                               |[API](https://www.anthropic.com/api)  |
 |    2024-04    | [Llama 3](https://github.com/meta-llama/llama3)                | Meta Llama 3 is the next generation of our state-of-the-art open source large language model.            |                                     |[Hugging Face](https://huggingface.co/meta-llama)  |
 |    2024-03    | [Claude 3](https://www.anthropic.com/claude)                   | Talk with Claude, an AI assistant from Anthropic.            |                                                               |[API](https://www.anthropic.com/api)  |
 |    2023-09    | [Baichuan 2](https://github.com/baichuan-inc/Baichuan2)        | A series of large language models developed by Baichuan Intelligent Technology.            |                                     |[Hugging Face](https://huggingface.co/baichuan-inc)  |
