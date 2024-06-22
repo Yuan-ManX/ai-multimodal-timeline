@@ -1,7 +1,7 @@
 # AI Multimodal Timeline
 
 <p align="center">
-  <img src="AI-Multimodal-Timeline.png" alt="ComfyUI" style="display:block; margin:auto; width:720px" />
+  <img src="AI-Multimodal-Timeline.png" alt="ComfyUI" style="display:block; margin:auto; width:820px" />
 </p>
 
 Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Agent, Audio, Image, Video, Music and 3D content. 🔥
