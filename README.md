@@ -75,6 +75,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2024-06    | [Translation Agent](https://github.com/andrewyng/translation-agent)               | Agentic translation using reflection workflow.            |                                     |  |
 |    2024-06    | [Atomic Agents](https://github.com/KennyVaneetvelde/atomic_agents)                | The Atomic Agents framework is designed to be modular, extensible, and easy to use.            |                                     |  |
 |    2024-05    | [Pipecat](https://github.com/pipecat-ai/pipecat)                | Open Source framework for voice and multimodal conversational AI.            |                                     |  |
+|    2024-02    | [V-IRL](https://virl-platform.github.io/)       | Grounding Virtual Intelligence in Real Life.            |[arXiv](https://arxiv.org/abs/2402.03310)  |                           |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
