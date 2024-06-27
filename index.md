@@ -1,7 +1,7 @@
 # AI Multimodal Timeline
 
 <p align="center">
-  <img src="AI-Multimodal-Timeline.png" alt="ComfyUI" style="display:block; margin:auto;" />
+  <img src="AI-Multimodal-Timeline.png" alt="ComfyUI" style="display:block; margin:auto; width:820px" />
 </p>
 
 Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Agent, Audio, Image, Video, Music and 3D content. 🔥
@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-06    | [Cambrian-1](https://github.com/cambrian-mllm/cambrian)              | A Fully Open, Vision-Centric Exploration of Multimodal LLMs.            |[arXiv](https://arxiv.org/abs/2406.16860)  |[Hugging Face](https://huggingface.co/nyu-visionx/cambrian-8b)  |
 |    2024-06    | [MINT-1T](https://github.com/mlfoundations/MINT-1T)              | Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens.            |[arXiv](https://arxiv.org/abs/2406.11271)  |  |
 |    2024-06    | [OmniTokenizer](https://github.com/FoundationVision/OmniTokenizer)              | A Joint Image-Video Tokenizer for Visual Generation.            |[arXiv](https://arxiv.org/abs/2406.09399)  |[Website](https://www.wangjunke.info/OmniTokenizer/)  |
 |    2024-06    | [ml-4m](https://github.com/apple/ml-4m)              | A framework for training any-to-any multimodal foundation models.            |[arXiv](https://arxiv.org/abs/2406.09406)  |[Website](https://4m.epfl.ch/)  |
@@ -40,6 +41,8 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2024-05    | [GPT-4o](https://openai.com/index/hello-gpt-4o/)                            | GPT-4o (“o” for “omni”) is a step towards much more natural human-computer interaction—it accepts as input any combination of text, audio, image, and video and generates any combination of text, audio, and image outputs.            |                                                               |[API](https://platform.openai.com/docs/models/gpt-4o)  |
 |    2024-04    | [MyGO](https://github.com/zjukg/MyGO)      | Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion.            |[arXiv](https://arxiv.org/abs/2404.09468)  |  |
 |    2024-04    | [InternLM-XComposer2](https://github.com/InternLM/InternLM-XComposer)      | InternLM-XComposer2 is a groundbreaking vision-language large model (VLLM) excelling in free-form text-image composition and comprehension.            |[arXiv](https://arxiv.org/abs/2404.06512)  |[Hugging Face](https://huggingface.co/internlm/internlm-xcomposer2-4khd-7b)  |
+|    2024-01    | [MMVP](https://github.com/tsb0601/MMVP)      | Exploring the Visual Shortcomings of Multimodal LLMs.                  |[arXiv](https://arxiv.org/abs/2401.06209)  |                                    |
+|    2023-12    | [V*](https://github.com/penghao-wu/vstar)      | Guided Visual Search as a Core Mechanism in Multimodal LLMs.                  |[arXiv](https://arxiv.org/abs/2312.14135)  |                                    |
 |    2023-12    | [Tokenize Anything](https://github.com/baaivision/tokenize-anything)      | Tokenize Anything via Prompting.            |[arXiv](https://arxiv.org/abs/2312.09128)  |[Hugging Face](https://huggingface.co/BAAI/tokenize-anything)  |
 |    2023-11    | [ShareGPT4V](https://github.com/ShareGPT4Omni/ShareGPT4V)      | Improving Large Multi-Modal Models with Better Captions.            |[arXiv](https://arxiv.org/abs/2311.12793)  |[Hugging Face](https://huggingface.co/Lin-Chen/ShareGPT4V-7B)  |
 |    2023-11    | [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)      | Learning United Visual Representation by Alignment Before Projection.            |[arXiv](https://arxiv.org/abs/2311.10122)  |[Hugging Face](https://huggingface.co/LanguageBind/Video-LLaVA-7B)  |
@@ -81,7 +84,9 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 
 ###  <span id="audio">Audio</span>
+
 #### Audio/Text-to-Speech
+
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
 |    2024-05    | [ChatTTS](https://github.com/2noise/ChatTTS)                     | ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant.            |  | |
@@ -89,6 +94,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 
 #### Audio/Automatic Speech Recognition
+
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
 |    2024-05    | [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR)                | Large speech model-super multi-dialect ASR.            |      |[Hugging Face](https://huggingface.co/Tele-AI/TeleSpeech-ASR1.0)  |
@@ -96,6 +102,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 
 #### Audio/Audio Generation
+
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
 |    2024-06    | [SEE-2-SOUND](https://github.com/see2sound/see2sound)                | Zero-Shot Spatial Environment-to-Spatial Sound.            |[arXiv](https://arxiv.org/abs/2406.07547)  |  |
@@ -155,7 +162,6 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2024-03    | [TripoSR](https://github.com/VAST-AI-Research/TripoSR)                | Fast 3D Object Reconstruction from a Single Image.            |[arXiv](https://arxiv.org/abs/2403.02151)  |[Hugging Face](https://huggingface.co/spaces/stabilityai/TripoSR)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
-
 
 
 
