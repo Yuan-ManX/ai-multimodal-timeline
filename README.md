@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-07    | [Anole](https://github.com/GAIR-NLP/anole)              | Anole: An Open, Autoregressive and Native Multimodal Models for Interleaved Image-Text Generation.            |  |[Hugging Face](https://huggingface.co/GAIR/Anole-7b-v0.1)  |
 |    2024-06    | [Cambrian-1](https://github.com/cambrian-mllm/cambrian)              | A Fully Open, Vision-Centric Exploration of Multimodal LLMs.            |[arXiv](https://arxiv.org/abs/2406.16860)  |[Hugging Face](https://huggingface.co/nyu-visionx/cambrian-8b)  |
 |    2024-06    | [MINT-1T](https://github.com/mlfoundations/MINT-1T)              | Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens.            |[arXiv](https://arxiv.org/abs/2406.11271)  |  |
 |    2024-06    | [OmniTokenizer](https://github.com/FoundationVision/OmniTokenizer)              | A Joint Image-Video Tokenizer for Visual Generation.            |[arXiv](https://arxiv.org/abs/2406.09399)  |[Website](https://www.wangjunke.info/OmniTokenizer/)  |
