@@ -77,6 +77,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [OmAgent](https://github.com/om-ai-lab/OmAgent)                | A multimodal agent framework for solving complex tasks.            |[arXiv](https://arxiv.org/abs/2406.16620)  |  |
 |    2024-06    | [Mixture of Agents (MoA)](https://github.com/togethercomputer/MoA)                | Mixture-of-Agents Enhances Large Language Model Capabilities.            |[arXiv](https://arxiv.org/abs/2406.04692)  |  |
 |    2024-06    | [Buffer of Thoughts](https://github.com/YangLing0818/buffer-of-thought-llm)       | Thought-Augmented Reasoning with Large Language Models.            |[arXiv](https://arxiv.org/abs/2406.04271)  |  |
 |    2024-06    | [Translation Agent](https://github.com/andrewyng/translation-agent)               | Agentic translation using reflection workflow.            |                                     |  |
