@@ -102,6 +102,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)                | SenseVoice is a speech foundation model with multiple speech understanding capabilities, including automatic speech recognition (ASR), spoken language identification (LID), speech emotion recognition (SER), and audio event detection (AED).            |  |[Hugging Face](https://huggingface.co/FunAudioLLM/SenseVoiceSmall)  |
 |    2024-05    | [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR)                | Large speech model-super multi-dialect ASR.            |      |[Hugging Face](https://huggingface.co/Tele-AI/TeleSpeech-ASR1.0)  |
 |    2022-12    | [Whisper](https://github.com/openai/whisper)                | Whisper is a general-purpose speech recognition model.            |[arXiv](https://arxiv.org/abs/2212.04356)  |[API](https://platform.openai.com/docs/models/whisper)  |
 
