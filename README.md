@@ -113,6 +113,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [FoleyCrafter](https://github.com/open-mmlab/FoleyCrafter)                | FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds.            |[arXiv](https://arxiv.org/abs/2407.01494)  |[Hugging Face](https://huggingface.co/ymzhang319/FoleyCrafter)  |
 |    2024-06    | [SEE-2-SOUND](https://github.com/see2sound/see2sound)                | Zero-Shot Spatial Environment-to-Spatial Sound.            |[arXiv](https://arxiv.org/abs/2406.07547)  |  |
 |    2024-05    | [Make-An-Audio 3](https://github.com/Text-to-Audio/Make-An-Audio-3)             | Transforming Text into Audio via Flow-based Large Diffusion Transformers.            |[arXiv](https://arxiv.org/abs/2305.18474)  |[Hugging Face](https://huggingface.co/AIGC-Audio/Make-An-Audio-3)  |
 
