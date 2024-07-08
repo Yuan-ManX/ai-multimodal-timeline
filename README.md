@@ -124,6 +124,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [Kolors](https://github.com/Kwai-Kolors/Kolors)               | Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.            |  |[Hugging Face](https://huggingface.co/Kwai-Kolors/Kolors)  |
 |    2024-06    | [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)                | Depth Anything V2.            |[arXiv](https://arxiv.org/abs/2406.09414)  |[Hugging Face](https://huggingface.co/depth-anything/Depth-Anything-V2-Base)  |
 |    2024-06    | [AutoStudio](https://github.com/donahowe/AutoStudio)                | Crafting Consistent Subjects in Multi-turn Interactive Image Generation.            |[arXiv](https://arxiv.org/abs/2406.01388)  |   |
 |    2024-06    | [MimicBrush](https://github.com/ali-vilab/MimicBrush)               | Zero-shot Image Editing with Reference Imitation.            |[arXiv](https://arxiv.org/abs/2406.07547)  |[Hugging Face](https://huggingface.co/xichenhku/MimicBrush)  |
