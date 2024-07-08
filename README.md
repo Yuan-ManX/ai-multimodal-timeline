@@ -130,6 +130,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 |    2024-06    | [LlamaGen](https://github.com/FoundationVision/LlamaGen)            | Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation.            |[arXiv](https://arxiv.org/abs/2406.06525)  |[Hugging Face](https://huggingface.co/FoundationVision/LlamaGen)  |
 |    2024-05    | [Omost](https://github.com/lllyasviel/Omost)                        | Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.            |     |[Hugging Face](https://huggingface.co/spaces/lllyasviel/Omost)  |
 |    2024-05    | [Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)                | A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding.            |[arXiv](https://arxiv.org/abs/2405.08748)  |[Hugging Face](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)  |
+|    2024-02    | [MIGC](https://github.com/limuloo/MIGC)                | MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis.            |[arXiv](https://arxiv.org/abs/2402.05408)  |  |
 |    2023-10    | [DALL·E 3](https://openai.com/index/dall-e-3/)                      | DALL·E is a AI system that can create realistic images and art from a description in natural language.            |     |[API](https://platform.openai.com/docs/models/dall-e)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
