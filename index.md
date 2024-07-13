@@ -1,7 +1,7 @@
 # AI Multimodal Timeline
 
 <p align="center">
-  <img src="AI-Multimodal-Timeline.png" alt="ComfyUI" style="display:block; margin:auto; width:850px" />
+  <img src="AI-Multimodal-Timeline.png" alt="AI Multimodal Timeline" style="display:block; margin:auto; width:850px" />
 </p>
 
 Here we will track the latest AI Multimodal Models, including Multimodal Foundation Model, LLM, Agent, Audio, Image, Video, Music and 3D content. 🔥
@@ -25,6 +25,8 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-07    | [Moshi](https://www.moshi.chat/?queue_id=talktomoshi)              | Moshi is an experimental conversational AI.            |  |[Website](https://www.moshi.chat/?queue_id=talktomoshi)  |
+|    2024-07    | [Anole](https://github.com/GAIR-NLP/anole)              | Anole: An Open, Autoregressive and Native Multimodal Models for Interleaved Image-Text Generation.            |  |[Hugging Face](https://huggingface.co/GAIR/Anole-7b-v0.1)  |
 |    2024-06    | [Cambrian-1](https://github.com/cambrian-mllm/cambrian)              | A Fully Open, Vision-Centric Exploration of Multimodal LLMs.            |[arXiv](https://arxiv.org/abs/2406.16860)  |[Hugging Face](https://huggingface.co/nyu-visionx/cambrian-8b)  |
 |    2024-06    | [MINT-1T](https://github.com/mlfoundations/MINT-1T)              | Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens.            |[arXiv](https://arxiv.org/abs/2406.11271)  |  |
 |    2024-06    | [OmniTokenizer](https://github.com/FoundationVision/OmniTokenizer)              | A Joint Image-Video Tokenizer for Visual Generation.            |[arXiv](https://arxiv.org/abs/2406.09399)  |[Website](https://www.wangjunke.info/OmniTokenizer/)  |
@@ -58,11 +60,14 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [Index-1.9B](https://github.com/bilibili/Index-1.9B)            | A SOTA lightweight multilingual LLM            |                                                               |[Hugging Face](https://huggingface.co/IndexTeam/Index-1.9B)  |
 |    2024-06    | [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)            | Claude 3.5 Sonnet            |                                                               |[API](https://www.anthropic.com/api)  |
 |    2024-06    | [Nemotron-4](https://huggingface.co/nvidia/Nemotron-4-340B-Instruct)                | Nemotron-4-340B-Instruct is a large language model (LLM) that can be used as part of a synthetic data generation pipeline to create training data that helps researchers and developers build their own LLMs.            |[arXiv](https://arxiv.org/abs/2402.16819)  |[Hugging Face](https://huggingface.co/nvidia/Nemotron-4-340B-Instruct)  |
+|    2024-06    | [Qwen2](https://github.com/QwenLM/Qwen2)                | Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.            |                                     |[Hugging Face](https://huggingface.co/Qwen)  |
 |    2024-04    | [Llama 3](https://github.com/meta-llama/llama3)                | Meta Llama 3 is the next generation of our state-of-the-art open source large language model.            |                                     |[Hugging Face](https://huggingface.co/meta-llama)  |
 |    2024-03    | [Claude 3](https://www.anthropic.com/claude)                   | Talk with Claude, an AI assistant from Anthropic.            |                                                               |[API](https://www.anthropic.com/api)  |
 |    2024-03    | [Grok-1](https://github.com/xai-org/grok-1)                    | The weights and architecture of our 314 billion parameter Mixture-of-Experts model, Grok-1.            |                                                               |[Hugging Face](https://huggingface.co/xai-org/grok-1)  |
+|    2023-11    | [Mixtral](https://mistral.ai/)                    | Open and portable generative AI for devs and businesses.            |[arXiv](https://arxiv.org/abs/2401.04088)  |[Hugging Face](https://huggingface.co/mistralai)  |
 |    2023-09    | [Baichuan 2](https://github.com/baichuan-inc/Baichuan2)        | A series of large language models developed by Baichuan Intelligent Technology.            |                                     |[Hugging Face](https://huggingface.co/baichuan-inc)  |
 |    2023-07    | [GPT-4](https://openai.com/index/gpt-4/)                                    | GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses.            |                                                               |[API](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)  |
 
@@ -73,6 +78,8 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [OmAgent](https://github.com/om-ai-lab/OmAgent)                | A multimodal agent framework for solving complex tasks.            |[arXiv](https://arxiv.org/abs/2406.16620)  |  |
+|    2024-06    | [GraphRAG](https://github.com/microsoft/graphrag)                | A modular graph-based Retrieval-Augmented Generation (RAG) system.            |  |[Website](https://microsoft.github.io/graphrag/)  |
 |    2024-06    | [Mixture of Agents (MoA)](https://github.com/togethercomputer/MoA)                | Mixture-of-Agents Enhances Large Language Model Capabilities.            |[arXiv](https://arxiv.org/abs/2406.04692)  |  |
 |    2024-06    | [Buffer of Thoughts](https://github.com/YangLing0818/buffer-of-thought-llm)       | Thought-Augmented Reasoning with Large Language Models.            |[arXiv](https://arxiv.org/abs/2406.04271)  |  |
 |    2024-06    | [Translation Agent](https://github.com/andrewyng/translation-agent)               | Agentic translation using reflection workflow.            |                                     |  |
@@ -89,6 +96,8 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [CosyVoice](https://github.com/FunAudioLLM/CosyVoice)               | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.                                                  |  |  |
+|    2024-06    | [DEX-TTS](https://github.com/winddori2002/DEX-TTS)               | Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability.                                                  |[arXiv](https://arxiv.org/abs/2406.19135)  |[Website](https://dextts.github.io/demo.github.io/)  |
 |    2024-05    | [ChatTTS](https://github.com/2noise/ChatTTS)                     | ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant.            |  | |
 |    2023-06    | [StyleTTS 2](https://github.com/yl4579/StyleTTS2)                | Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.            |[arXiv](https://arxiv.org/abs/2306.07691)  |[Hugging Face](https://huggingface.co/spaces/styletts2/styletts2)  |
 
@@ -97,6 +106,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)                | SenseVoice is a speech foundation model with multiple speech understanding capabilities, including automatic speech recognition (ASR), spoken language identification (LID), speech emotion recognition (SER), and audio event detection (AED).            |  |[Hugging Face](https://huggingface.co/FunAudioLLM/SenseVoiceSmall)  |
 |    2024-05    | [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR)                | Large speech model-super multi-dialect ASR.            |      |[Hugging Face](https://huggingface.co/Tele-AI/TeleSpeech-ASR1.0)  |
 |    2022-12    | [Whisper](https://github.com/openai/whisper)                | Whisper is a general-purpose speech recognition model.            |[arXiv](https://arxiv.org/abs/2212.04356)  |[API](https://platform.openai.com/docs/models/whisper)  |
 
@@ -105,6 +115,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [FoleyCrafter](https://github.com/open-mmlab/FoleyCrafter)                | FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds.            |[arXiv](https://arxiv.org/abs/2407.01494)  |[Hugging Face](https://huggingface.co/ymzhang319/FoleyCrafter)  |
 |    2024-06    | [SEE-2-SOUND](https://github.com/see2sound/see2sound)                | Zero-Shot Spatial Environment-to-Spatial Sound.            |[arXiv](https://arxiv.org/abs/2406.07547)  |  |
 |    2024-05    | [Make-An-Audio 3](https://github.com/Text-to-Audio/Make-An-Audio-3)             | Transforming Text into Audio via Flow-based Large Diffusion Transformers.            |[arXiv](https://arxiv.org/abs/2305.18474)  |[Hugging Face](https://huggingface.co/AIGC-Audio/Make-An-Audio-3)  |
 
@@ -115,12 +126,15 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [PaintsUndo](https://github.com/lllyasviel/Paints-UNDO)               | PaintsUndo: A Base Model of Drawing Behaviors in Digital Paintings.            |  |  |
+|    2024-07    | [Kolors](https://github.com/Kwai-Kolors/Kolors)               | Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.            |  |[Hugging Face](https://huggingface.co/Kwai-Kolors/Kolors)  |
 |    2024-06    | [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)                | Depth Anything V2.            |[arXiv](https://arxiv.org/abs/2406.09414)  |[Hugging Face](https://huggingface.co/depth-anything/Depth-Anything-V2-Base)  |
 |    2024-06    | [AutoStudio](https://github.com/donahowe/AutoStudio)                | Crafting Consistent Subjects in Multi-turn Interactive Image Generation.            |[arXiv](https://arxiv.org/abs/2406.01388)  |   |
 |    2024-06    | [MimicBrush](https://github.com/ali-vilab/MimicBrush)               | Zero-shot Image Editing with Reference Imitation.            |[arXiv](https://arxiv.org/abs/2406.07547)  |[Hugging Face](https://huggingface.co/xichenhku/MimicBrush)  |
 |    2024-06    | [LlamaGen](https://github.com/FoundationVision/LlamaGen)            | Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation.            |[arXiv](https://arxiv.org/abs/2406.06525)  |[Hugging Face](https://huggingface.co/FoundationVision/LlamaGen)  |
 |    2024-05    | [Omost](https://github.com/lllyasviel/Omost)                        | Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability.            |     |[Hugging Face](https://huggingface.co/spaces/lllyasviel/Omost)  |
 |    2024-05    | [Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)                | A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding.            |[arXiv](https://arxiv.org/abs/2405.08748)  |[Hugging Face](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)  |
+|    2024-02    | [MIGC](https://github.com/limuloo/MIGC)                | MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis.            |[arXiv](https://arxiv.org/abs/2402.05408)  |  |
 |    2023-10    | [DALL·E 3](https://openai.com/index/dall-e-3/)                      | DALL·E is a AI system that can create realistic images and art from a description in natural language.            |     |[API](https://platform.openai.com/docs/models/dall-e)  |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
@@ -130,7 +144,10 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-06    | [Diffutoon](https://github.com/modelscope/DiffSynth-Studio)                                              | High-Resolution Editable Toon Shading via Diffusion Models.            |[arXiv](https://arxiv.org/abs/2401.16224)  |[Website](https://ecnu-cilab.github.io/DiffutoonProjectPage/)  |
 |    2024-05    | [Video-MME](https://github.com/BradyFU/Video-MME)                                              | The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis.            |  |                             |
+|    2024-05    | [Video-of-Thought](https://github.com/scofield7419/Video-of-Thought)                          | Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition.            |  |[Website](https://haofei.vip/VoT/)  |
+|    2024-05    | [MOFA-Video](https://github.com/MyNiuuu/MOFA-Video)                                              | MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model.            |[arXiv](https://arxiv.org/abs/2405.20222)  |[Hugging Face](https://huggingface.co/MyNiuuu/MOFA-Video-Hybrid)  |
 |    2024-05    | [MotionLLM](https://github.com/IDEA-Research/MotionLLM)                                              | Understanding Human Behaviors from Human Motions and Videos.            |[arXiv](https://arxiv.org/abs/2405.20340)  |                             |
 |    2024-05    | [Vidu](https://www.vidu.io/)                                              | Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models.            |[arXiv](https://arxiv.org/abs/2405.04233)  |                             |
 |    2024-02    | [Sora](https://openai.com/index/sora/)                                    | Sora is an AI model that can create realistic and imaginative scenes from text instructions.            |[Technical Report](https://openai.com/index/video-generation-models-as-world-simulators/)  |                             |
@@ -144,6 +161,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-05    | [Diff-BGM](https://github.com/sizhelee/Diff-BGM)      | A Diffusion Model for Video Background Music Generation.                                                                              |[arXiv](https://arxiv.org/abs/2405.11913)  |    |
 |    2024-04    | [Udio](https://www.udio.com/)                | Udio - AI Music Generator                |                                                                                      |[Website](https://www.udio.com/)  |
 |    2023-12    | [Suno](https://suno.com/)                | Suno is building a future where anyone can make great music.            |                                                                                      |[Website](https://suno.com/)  |
 |    2023-12    | [Soundry AI](https://soundry.ai/)        | Generative AI tools including text-to-sound and infinite sample packs.            |                                                                                      |[Website](https://soundry.ai/)  |
@@ -156,6 +174,8 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [CharacterGen](https://github.com/zjp-shadow/CharacterGen)                | CharacterGen: Efficient 3D Character Generation from Single Images with Multi-View Pose Canonicalization.            |[arXiv](https://arxiv.org/abs/2402.17214)  |[Website](https://charactergen.github.io/)  |
+|    2024-07    | [GALA3D](https://github.com/VDIGPKU/GALA3D)      | GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting.            |[arXiv](https://arxiv.org/abs/2402.07207)  |[Website](https://gala3d.github.io/)  |
 |    2024-06    | [Unique3D](https://github.com/AiuniAI/Unique3D)      | High-Quality and Efficient 3D Mesh Generation from a Single Image.            |[arXiv](https://arxiv.org/abs/2405.20343)  |[Hugging Face](https://huggingface.co/Wuvin/Unique3D)  |
 |    2024-06    | [DreamGaussian4D](https://github.com/jiawei-ren/dreamgaussian4d)      | Generative 4D Gaussian Splatting.            |[arXiv](https://arxiv.org/abs/2312.17142)  |[Hugging Face](https://huggingface.co/spaces/jiawei011/dreamgaussian4d)  |
 |    2024-03    | [GaussianCube](https://github.com/GaussianCube/GaussianCube)          | A Structured and Explicit Radiance Representation for 3D Generative Modeling.            |[arXiv](https://arxiv.org/abs/2403.19655)  |[Hugging Face](https://huggingface.co/BwZhang/GaussianCube-OmniObject3D-v1.0)  |
