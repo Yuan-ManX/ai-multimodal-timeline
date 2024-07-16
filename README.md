@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-07    | [VTA-LDM](https://github.com/ariesssxu/vta-ldm)              | Video-to-Audio Generation with Hidden Alignment.            |[arXiv](https://arxiv.org/abs/2407.07464)  |  |
 |    2024-07    | [Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio)              | Qwen2-Audio chat & pretrained large audio language model proposed by Alibaba Cloud.            |[arXiv](https://arxiv.org/abs/2407.10759)  |  |
 |    2024-07    | [Moshi](https://www.moshi.chat/?queue_id=talktomoshi)              | Moshi is an experimental conversational AI.            |  |[Website](https://www.moshi.chat/?queue_id=talktomoshi)  |
 |    2024-07    | [Anole](https://github.com/GAIR-NLP/anole)              | Anole: An Open, Autoregressive and Native Multimodal Models for Interleaved Image-Text Generation.            |  |[Hugging Face](https://huggingface.co/GAIR/Anole-7b-v0.1)  |
