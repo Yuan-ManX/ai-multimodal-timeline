@@ -129,6 +129,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [UltraPixel](https://github.com/catcathh/UltraPixel)                  | UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks.            |[arXiv](https://arxiv.org/abs/2407.02158)  |   |
 |    2024-07    | [PaintsUndo](https://github.com/lllyasviel/Paints-UNDO)               | PaintsUndo: A Base Model of Drawing Behaviors in Digital Paintings.            |  |  |
 |    2024-07    | [Kolors](https://github.com/Kwai-Kolors/Kolors)               | Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.            |  |[Hugging Face](https://huggingface.co/Kwai-Kolors/Kolors)  |
 |    2024-06    | [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)                | Depth Anything V2.            |[arXiv](https://arxiv.org/abs/2406.09414)  |[Hugging Face](https://huggingface.co/depth-anything/Depth-Anything-V2-Base)  |
