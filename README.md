@@ -129,6 +129,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [UltraEdit](https://github.com/HaozheZhao/UltraEdit)                  | UltraEdit: Instruction-based Fine-Grained Image Editing at Scale.            |[arXiv](https://arxiv.org/abs/2407.05282)  |[Hugging Face](https://huggingface.co/BleachNick/SD3_UltraEdit_w_mask)  |
 |    2024-07    | [UltraPixel](https://github.com/catcathh/UltraPixel)                  | UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks.            |[arXiv](https://arxiv.org/abs/2407.02158)  |   |
 |    2024-07    | [PaintsUndo](https://github.com/lllyasviel/Paints-UNDO)               | PaintsUndo: A Base Model of Drawing Behaviors in Digital Paintings.            |  |  |
 |    2024-07    | [Kolors](https://github.com/Kwai-Kolors/Kolors)               | Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.            |  |[Hugging Face](https://huggingface.co/Kwai-Kolors/Kolors)  |
