@@ -83,6 +83,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [LLama Agentic System](https://github.com/meta-llama/llama-agentic-system)                | Agentic components of the Llama Stack APIs.            |  |  |
 |    2024-07    | [OmAgent](https://github.com/om-ai-lab/OmAgent)                | A multimodal agent framework for solving complex tasks.            |[arXiv](https://arxiv.org/abs/2406.16620)  |  |
 |    2024-06    | [GraphRAG](https://github.com/microsoft/graphrag)                | A modular graph-based Retrieval-Augmented Generation (RAG) system.            |  |[Website](https://microsoft.github.io/graphrag/)  |
 |    2024-06    | [Mixture of Agents (MoA)](https://github.com/togethercomputer/MoA)                | Mixture-of-Agents Enhances Large Language Model Capabilities.            |[arXiv](https://arxiv.org/abs/2406.04692)  |  |
