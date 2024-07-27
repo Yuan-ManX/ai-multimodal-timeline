@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-07    | [Kangaroo](https://github.com/KangarooGroup/Kangaroo)              | Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input.            |    |[Hugging Face](https://huggingface.co/KangarooGroup/kangaroo)  |
 |    2024-07    | [SEED-Story](https://github.com/TencentARC/SEED-Story)              | SEED-Story: Multimodal Long Story Generation with Large Language Model.            |[arXiv](https://arxiv.org/abs/2407.08683)  |[Hugging Face](https://huggingface.co/TencentARC/SEED-Story)  |
 |    2024-07    | [VTA-LDM](https://github.com/ariesssxu/vta-ldm)              | Video-to-Audio Generation with Hidden Alignment.            |[arXiv](https://arxiv.org/abs/2407.07464)  | [Hugging Face](https://huggingface.co/ariesssxu/vta-ldm-clip4clip-v-large)   |
 |    2024-07    | [Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio)              | Qwen2-Audio chat & pretrained large audio language model proposed by Alibaba Cloud.            |[arXiv](https://arxiv.org/abs/2407.10759)  |  |
