@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-07    | [Any2Point](https://github.com/Ivan-Tang-3D/Any2Point)              | Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding.            |[arXiv](https://arxiv.org/abs/2404.07989)  |   |
 |    2024-07    | [SOLO](https://github.com/Yangyi-Chen/SOLO)              | SOLO: A Single Transformer for Scalable Vision-Language Modeling.            |[arXiv](https://arxiv.org/abs/2407.06438)  |   |
 |    2024-07    | [Kangaroo](https://github.com/KangarooGroup/Kangaroo)              | Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input.            |    |[Hugging Face](https://huggingface.co/KangarooGroup/kangaroo)  |
 |    2024-07    | [SEED-Story](https://github.com/TencentARC/SEED-Story)              | SEED-Story: Multimodal Long Story Generation with Large Language Model.            |[arXiv](https://arxiv.org/abs/2407.08683)  |[Hugging Face](https://huggingface.co/TencentARC/SEED-Story)  |
