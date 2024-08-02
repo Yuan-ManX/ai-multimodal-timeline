@@ -89,6 +89,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-07    | [LangGraph Studio](https://github.com/langchain-ai/langgraph-studio)                | LangGraph Studio offers a new way to develop LLM applications by providing a specialized agent IDE that enables visualization, interaction, and debugging of complex agentic applications.            |  |  |
 |    2024-07    | [LLama Agentic System](https://github.com/meta-llama/llama-agentic-system)                | Agentic components of the Llama Stack APIs.            |  |  |
 |    2024-07    | [IoA](https://github.com/OpenBMB/IoA)                | An open-source framework for collaborative AI agents, enabling diverse, distributed agents to team up and tackle complex tasks through internet-like connectivity.            |   |  |
 |    2024-07    | [OmAgent](https://github.com/om-ai-lab/OmAgent)                | A multimodal agent framework for solving complex tasks.            |[arXiv](https://arxiv.org/abs/2406.16620)  |  |
