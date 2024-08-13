@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-08    | [AI Scientist](https://github.com/SakanaAI/AI-Scientist)              | The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery.            |[arXiv](https://arxiv.org/abs/2408.06292)  |   |
 |    2024-08    | [VITA](https://github.com/VITA-MLLM/VITA)              | VITA: Towards Open-Source Interactive Omni Multimodal LLM.            |[arXiv](https://www.arxiv.org/abs/2408.05211)  |   |
 |    2024-08    | [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT)              | Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining.            |[arXiv](https://arxiv.org/abs/2408.02657)  |   |
 |    2024-07    | [Any2Point](https://github.com/Ivan-Tang-3D/Any2Point)              | Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding.            |[arXiv](https://arxiv.org/abs/2404.07989)  |   |
