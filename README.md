@@ -75,6 +75,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :-----------: | :-------: |
+|    2024-08    | [LongWriter](https://github.com/THUDM/LongWriter)            | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs.            |[arXiv](https://arxiv.org/abs/2408.07055)  |[Hugging Face](https://huggingface.co/THUDM/LongWriter-llama3.1-8b)  |
 |    2024-07    | [DCLM](https://github.com/mlfoundations/dclm)            | DataComp for Language Models            |[arXiv](https://arxiv.org/abs/2406.11794)  |[Hugging Face](https://huggingface.co/apple/DCLM-7B)  |
 |    2024-07    | [Index-1.9B](https://github.com/bilibili/Index-1.9B)            | A SOTA lightweight multilingual LLM            |                                                               |[Hugging Face](https://huggingface.co/IndexTeam/Index-1.9B)  |
 |    2024-06    | [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)            | Claude 3.5 Sonnet            |                                                               |[API](https://www.anthropic.com/api)  |
