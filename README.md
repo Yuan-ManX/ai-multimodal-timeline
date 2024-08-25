@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-08    | [Show-o](https://github.com/showlab/Show-o)              | Show-o: One Single Transformer to Unify Multimodal Understanding and Generation.            |[arXiv](https://arxiv.org/abs/2408.12528)  |   |
 |    2024-08    | [LLaVA-OneVision](https://github.com/LLaVA-VL/LLaVA-NeXT)              | LLaVA-OneVision: Easy Visual Task Transfer.            |[arXiv](https://arxiv.org/abs/2408.03326)  | [Hugging Face](https://huggingface.co/lmms-lab)   |
 |    2024-08    | [AI Scientist](https://github.com/SakanaAI/AI-Scientist)              | The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery.            |[arXiv](https://arxiv.org/abs/2408.06292)  |   |
 |    2024-08    | [Mini-Monkey](https://github.com/Yuliang-Liu/Monkey)              | Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models.            |[arXiv](https://arxiv.org/abs/2408.02034)  |   |
