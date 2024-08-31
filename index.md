@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-08    | [Mini-Omni](https://github.com/gpt-omni/mini-omni)              | Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming.            |[arXiv](https://arxiv.org/abs/2408.16725)  | [Hugging Face](https://huggingface.co/gpt-omni/mini-omni)   |
 |    2024-08    | [GameNGen](https://gamengen.github.io/)              | GameNGen - Diffusion Models Are Real-Time Game Engines.            |[arXiv](https://arxiv.org/abs/2408.14837)  |   |
 |    2024-08    | [Sapiens](https://github.com/facebookresearch/sapiens)              | Sapiens: Foundation for Human Vision Models.            |[arXiv](https://arxiv.org/abs/2408.12569)  |   |
 |    2024-08    | [Show-o](https://github.com/showlab/Show-o)              | Show-o: One Single Transformer to Unify Multimodal Understanding and Generation.            |[arXiv](https://arxiv.org/abs/2408.12528)  |   |
