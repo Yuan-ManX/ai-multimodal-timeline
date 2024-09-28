@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-09    | [Emu3](https://github.com/baaivision/Emu3)              | Emu3: Next-Token Prediction is All You Need.            |  | [Hugging Face](https://huggingface.co/BAAI/Emu3-Gen)   |
 |    2024-09    | [Moshi](https://github.com/kyutai-labs/moshi)              | Moshi: a speech-text foundation model for real time dialogue.            |  | [Hugging Face](https://huggingface.co/kyutai/mimi)   |
 |    2024-09    | [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL)              | Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.            |  | [Hugging Face](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct)   |
 |    2024-08    | [Eagle](https://github.com/NVlabs/EAGLE)              | Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders.            |[arXiv](https://www.arxiv.org/abs/2408.15998)  |   |
