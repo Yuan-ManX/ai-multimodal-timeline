@@ -25,6 +25,7 @@ Here we will track the latest AI Multimodal Models, including Multimodal Foundat
 
 | Date          | Source                   | Description                                                 |   Paper   |  Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+|    2024-10    | [Unbounded](https://generative-infinite-game.github.io/)              | Unbounded: A Generative Infinite Game of Character Life Simulation.            |[arXiv](https://arxiv.org/abs/2410.18975)  | [Website](https://generative-infinite-game.github.io/)   |
 |    2024-10    | [Janus](https://github.com/deepseek-ai/Janus)              | Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation.            |[arXiv](https://arxiv.org/abs/2410.13848)  | [Hugging Face](https://huggingface.co/deepseek-ai/Janus-1.3B)   |
 |    2024-09    | [LLaVA-3D](https://github.com/ZCMax/LLaVA-3D)              | LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness.            |[arXiv](https://arxiv.org/abs/2409.18125)  |   |
 |    2024-09    | [Emu3](https://github.com/baaivision/Emu3)              | Emu3: Next-Token Prediction is All You Need.            |  | [Hugging Face](https://huggingface.co/BAAI/Emu3-Gen)   |
